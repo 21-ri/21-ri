@@ -5,12 +5,15 @@ I'm a passionate Front-End Developer specializing in crafting modern, high-perfo
 
 ## 🛠️ Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB
-- **Cloud Platforms:** AWS (EC2, Lambda, RDS)
-- **Development Practices:** Test-Driven Development (TDD), SOLID principles, Agile methodologies
-- **Tools:** Git, RESTful APIs
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, Python, PHP
+- **Frameworks & CMS:** React.js, Next.js, Angular, Bootstrap, Tailwind CSS, WordPress
+- **Backend:** Node.js, Django, Flask, Custom REST APIs (Python)
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Testing:** Jest, Cypress, React Testing Library
+- **Cloud Platforms:** Firebase, AWS (S3, EC2), GCP
+- **Optimization:** Lazy loading, caching, image compression, performance tuning
+- **Tools:** Git, GitHub, Chrome DevTools, VS Code, Figma
+- **Other**: Responsive Design, SEO Best Practices, Agile Methodology
 
 ## 📫 Contact Me
 

@@ -7,13 +7,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🔭 I’m currently working on **enhancing the performance and accessibility of modern web applications using React and Bootstrap, while contributing to multilingual and SEO-optimized websites.**
-- 🌱 I’m currently learning **Next.js, TypeScript, and cloud integrations with Firebase and AWS to scale front-end applications.**
-- 👯 I’m looking to collaborate on **rontend-heavy SaaS platforms, cross-device user interfaces, and inclusive, accessible web design.**
-- 💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), Bootstrap, responsive design, and API-driven frontend development.**
-- 📫 How to reach me: **connect on https://ridevlop.me/**
-- ⚡ Fun fact: **I’ve built both B2B platforms and iOS UIs—and yes, I still debug with way too many Chrome DevTools tabs open!**
+-  I’m currently learning **Next.js, TypeScript, and cloud integrations with Firebase and AWS to scale front-end applications.**
+- I’m looking to collaborate on **rontend-heavy SaaS platforms, cross-device user interfaces, and inclusive, accessible web design.**
+-  Ask me about **HTML5, CSS3, JavaScript (ES6+), Bootstrap, responsive design, and API-driven frontend development.**
+- How to reach me: **connect on https://ridevlop.me/**
+-  Fun fact: **I’ve built both B2B platforms and iOS UIs—and yes, I still debug with way too many Chrome DevTools tabs open!**
 
 ---
 
